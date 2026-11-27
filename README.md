@@ -1,8 +1,8 @@
-# sajeiv.github.io
+# sajeivravichandran.com
 
 Personal site of Sajeiv Ravichandran, software and AI developer in Toronto.
 
-**Live:** https://sajeiv.github.io
+**Live:** https://sajeivravichandran.com
 
 ## Built with
 
